@@ -26,6 +26,4 @@ The goal of this project is to perform an end-to-end data analysis on a retail d
 3. **Discount Impact:** Discounts exceeding 30% severely cannibalize margins, with 50% discounts resulting in an average loss of $310 per transaction.
 4. **Seasonal Trends:** The fourth quarter (specifically November and December) drives the vast majority of yearly revenue, requiring scaled supply chain preparation.
 
-## 📸 Dashboard Preview
-*(Upload your dashboard_screenshot.png to the repository and it will display here!)*
-![Sales Dashboard](dashboard/dashboard_screenshot.png)
+
